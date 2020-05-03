@@ -1,0 +1,22 @@
+{
+  "name": "product-hunt-rocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cmalfroy",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "superagent": "^5.2.2",
+    "superagent-prefix": "^0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.0.1",
+    "eslint-plugin-prettier": "^3.0.0",
+    "jest": "^23.6.0",
+    "prettier": "^1.15.2"
+  }
+}
