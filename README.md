@@ -4,8 +4,13 @@ This programm allows you to find all the users that upvoted a certain kind of pr
 
 # Usage
 
-
 ```
 yarn install
 node index.js <productQuery> <numberOfProductToScrape>
+```
+
+you can add the results to a file doing:
+
+```
+node index.js <productQuery> <numberOfProductToScrape> >> target-audience.json
 ```

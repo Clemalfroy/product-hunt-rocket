@@ -15,5 +15,5 @@ const PersonaFinderService = require("./services/persona-finder");
     argument,
     numberOfProductToScrape
   );
-  console.log(targetAudience);
+  console.log(JSON.stringify(targetAudience));
 })();
