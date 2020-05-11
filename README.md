@@ -4,6 +4,7 @@ This programm allows you to find all the users that upvoted a certain kind of pr
 
 # Usage
 
+If you don't have yarn installed you can use npm
 ```
 yarn install
 node index.js <productQuery> <numberOfProductToScrape>
